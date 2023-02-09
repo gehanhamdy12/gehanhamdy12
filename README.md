@@ -33,12 +33,12 @@ environment.</p>
 <h3>How to reach me ✨</h3>
 <div>
     <a href="https://www.linkedin.com/in/gehan-hamdy-445b22237/">
-        <img src="assets\linkedin.svg" width="30px">
+        <img src="linkedin.svg" width="30px">
     </a>&nbsp;&nbsp;
     <a href="mailto: gehanhhussein12@gmail.com">
-        <img src="assets\gmail.svg" width="30px">
+        <img src="gmail.svg" width="30px">
     </a>&nbsp;&nbsp;
     <a href="https://github.com/gehanhamdy12">
-        <img src="assets\github.svg" width="30px">
+        <img src="github.svg" width="30px">
     </a>&nbsp;&nbsp;
 </div>
